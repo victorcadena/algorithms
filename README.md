@@ -1,2 +1,2 @@
 # algorithms
-Algorithms Course
+Algorithms Course from San Diego University specialization
